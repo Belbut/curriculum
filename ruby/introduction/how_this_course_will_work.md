@@ -1,4 +1,5 @@
 ### Introduction
+yay Ruby!
 This course is all about teaching you **Ruby**, the language designed specifically for programmer happiness. What could possibly be better than that?! A task that takes dozens of lines of code to accomplish in Java or a hundred in C could take just a few in Ruby thanks to Ruby prepackaging so many useful functions into easy-to-use and convenient methods.
 
 Ruby and Python are quite similar and in some ways resemble Romance languages; once you've learned one, it's not terribly hard to pick up the other because they tend to follow many of the same conventions. Python tends to be taught more in colleges and is often used for more data-intensive and processor-heavy applications.
